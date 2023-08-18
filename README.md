@@ -2,7 +2,7 @@
 
 I'm following The Odin Project with the aim of becoming a self-taught Software Developer.
 
-Frontend technologies and languages I'm working with: **React, vanilla JavaScript, Sass/Scss, HTML, CSS** <br>
+Frontend technologies and languages I'm working with: **React, JavaScript, Sass/Scss, HTML, CSS** <br>
 Backend technologies and languages I'm working with: **Node, Express, MongoDB, Firebase** <br>
 Other: **Jest / Vitest, GIT**
 
