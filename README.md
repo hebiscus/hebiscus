@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm following The Odin Project with the aim of becoming a self-taught Software Developer.
+I'm a Software Developer that learns by building projects along with The Odin Project!
 
 Frontend technologies and languages I'm working with: **React, Typescript, JavaScript, Sass/Scss, HTML, CSS** <br>
 Backend technologies and languages I'm working with: **Node, Express, MongoDB, Firebase** <br>
